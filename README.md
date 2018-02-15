@@ -1,4 +1,6 @@
-Sprint 0 Group C3
+### Sprint 0 Group C3
+
+[!Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlVwf30bYIyfsLmzppZ6x3xHKEQVkJYleQthLpuHiyt9Tl318Atw)
 
 This repo contains the group task of team c3 in tutorial 16
 
