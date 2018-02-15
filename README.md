@@ -6,6 +6,7 @@ This repo contains the group task of team C3
 
 ## Authors:
 * Rania Elsayed 37-3167
+I love travelling and surfing the internet, looking forward to this SE project and I love coding :D
 
 * Karen Basta 37-13296
 
